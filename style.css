@@ -1,0 +1,54 @@
+body {
+	background-image: url(AKO.png);
+	background-size: cover;
+	background-attachment:fixed ;
+}
+
+.Navname {
+	animation: bounceInLeft;
+	animation-duration: 1s;
+}
+
+.Welcome {
+	background: rgba(0%, 0%, 0%, .7);
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-left: solid 10px;
+	border-right: solid 10px;
+	border-bottom: solid 10px;
+	border-color: rgba(255,192,8,255);
+}
+.Welcome2 {
+	background: rgba(0%, 0%, 0%, .7);
+	border-radius: 10px;
+}
+
+.button2 {
+	margin-left: 5px;
+}
+
+.button1 {
+	margin-left: 280px;
+	height: 37px;
+	width: 270px;
+}
+
+.Choices{
+	margin-left: 90px;
+}
+
+.contii {
+	width: 1300px;
+	margin-left: 100px;
+}
+
+.bg1 {
+	background: rgba(0%, 0%, 0%, .7);
+	padding: 5px;
+	border: 3px black solid;
+	border-radius: 20px;
+	color: whitesmoke;
+}
+.rbc {
+	text-align: center;
+}
